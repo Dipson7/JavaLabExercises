@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.io.*;
+
 public class Qno3 {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the total numbe of name you are writing: ");

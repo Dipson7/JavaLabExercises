@@ -1,6 +1,7 @@
 package Qno5;
 
 public class Qno5b {
+
     static void print_rectangle(int n, int m)
     {
         int i, j;

@@ -1,6 +1,7 @@
 package Qno5;
 
 public class Qno5d {
+
     public static void main(String[] args) {
         String ast="*";
 

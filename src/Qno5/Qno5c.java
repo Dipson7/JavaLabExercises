@@ -1,6 +1,7 @@
 package Qno5;
 
 public class Qno5c {
+
     public static void main(String[] args) {
         int rows = 5, k = 0;
 

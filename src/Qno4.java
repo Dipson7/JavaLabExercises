@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.StringTokenizer;
 public class Qno4 {
+
     public static void main(String[] args) {
         int sum = 0;
         Scanner sc = new Scanner(System.in);
